@@ -10,24 +10,24 @@ I (S’19) received the B.S. degree in Electronic Information Science and Techno
 My research interests include battery management system and battery equalization. My research advisor is Prof. Haoyu Wang. 
 
 ## Education
--M.S. in Electrical Engineering, ShanghaiTech University, Sept. 2019 - Jun. 2022
-上海科技大学，电子科学与技术
+-M.S. in Electrical Engineering, ShanghaiTech University, Sept. 2019 - Jun. 2022  
+上海科技大学，电子科学与技术  
 
--B.E. in Electronic Information Science and Technology, Shaanxi Normal University Sept. 2015- Jun. 2019
+-B.E. in Electronic Information Science and Technology, Shaanxi Normal University Sept. 2015- Jun. 2019  
 陕西师范大学，电子信息科学与技术
 
 ## Awards
--"National sholarship", 2021;
--"Outstanding student" of ShanghaiTech University, 2020;
--"Outstanding graduate" of Shaanxi Normal University, 2019;
--"Excllent sholarship" of Shaanxi Normal University, 2016/2017;
--"Jing Rui" Scholarship of Shaanxi Normal University, 2019;
--"Kai Li New Material" Scholarship of Shaanxi Normal University, 2018;
--"Excellent student" of Shaanxi Normal University, 2016;
--"Outstanding student leader" of Shaanxi Normal University, 2017;
--Sliver prize, Province-level, China \Internet +" college students' Innovation and Entrepreneurship Competition, 2017;
--Bronze prize, Province-level, China Students' Entrepreneurship Competition, 2018;
--Bronze prize, Province-level, National undergraduate Electronic Design Contest, 2018
+-"National sholarship", 2021;  
+-"Outstanding student" of ShanghaiTech University, 2020;  
+-"Outstanding graduate" of Shaanxi Normal University, 2019;  
+-"Excllent sholarship" of Shaanxi Normal University, 2016/2017;  
+-"Jing Rui" Scholarship of Shaanxi Normal University, 2019;  
+-"Kai Li New Material" Scholarship of Shaanxi Normal University, 2018;  
+-"Excellent student" of Shaanxi Normal University, 2016;  
+-"Outstanding student leader" of Shaanxi Normal University, 2017;  
+-Sliver prize, Province-level, China \Internet +" college students' Innovation and Entrepreneurship Competition, 2017;  
+-Bronze prize, Province-level, China Students' Entrepreneurship Competition, 2018;  
+-Bronze prize, Province-level, National undergraduate Electronic Design Contest, 2018；  
 
 
 # Header 1

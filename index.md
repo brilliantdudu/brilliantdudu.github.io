@@ -26,7 +26,7 @@ Advisor: Prof. Haoyu Wang
 - Resonant converter
 
 ## Awards
-- "National sholarship", 2021; 国家奖学金；  
+- "National scholarship", 2021; 国家奖学金；  
 - "Outstanding student" of ShanghaiTech University, 2020; 上海科技大学三好学生；  
 - "Outstanding graduate" of Shaanxi Normal University, 2019; 陕西师范大学优秀毕业生；    
 - "Excllent sholarship" of Shaanxi Normal University, 2016/2017; 专业一等奖学金；  

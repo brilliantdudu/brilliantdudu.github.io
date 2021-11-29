@@ -31,27 +31,42 @@ Advisor: Prof. Haoyu Wang
 - "Kai Li New Material" Scholarship of Shaanxi Normal University, 2018; 凯利新材料奖学金；  
 - "Excellent student" of Shaanxi Normal University, 2016; 陕西师范大学优秀学生；  
 - "Outstanding student leader" of Shaanxi Normal University, 2017; 陕西师范大学优秀学生干部；
-- Sliver prize, Province-level, China "Internet +" college students' Innovation and Entrepreneurship Competition, 2017; 互联网+创新创业大赛陕西省银奖；  
+- Sliver prize, Province-level, China "Internet +" college students' Innovation and Entrepreneurship Competition, 2017; "互联网+"创新创业大赛陕西省银奖；  
 - Bronze prize, Province-level, China Students' Entrepreneurship Competition, 2018;  陕西省大学生创业大赛铜奖；  
 - Bronze prize, Province-level, National undergraduate Electronic Design Contest, 2018；  全国大学生电子设计竞赛陕西省铜奖；
 
 ## Publications
 ### Journal Papers  
-- [J2](https://ieeexplore.ieee.org/document/9508163) **Z. Wei**, F. Peng, H. Wang, "An LCC based string-to-cell battery equalizer with simplified constant current control," IEEE Trans. Power Electron., vol. 37, no. 2, pp. 1816-1827, Feb. 2022.  
-- [J1](https://ieeexplore.ieee.org/document/8873627) F. Peng, H. Wang, and **Z. Wei**, "An LLC based highly efficient S2M and C2C hybrid hierarchical battery equalizer," IEEE Trans. Power Electron., vol. 35, no. 6, pp. 5928-5937, Jun. 2020.  
+- [[J2](https://ieeexplore.ieee.org/document/9508163)] **Z. Wei**, F. Peng, H. Wang, "An LCC based string-to-cell battery equalizer with simplified constant current control," IEEE Trans. Power Electron., vol. 37, no. 2, pp. 1816-1827, Feb. 2022.  
+- [[J1](https://ieeexplore.ieee.org/document/8873627)] F. Peng, H. Wang, and **Z. Wei**, "An LLC based highly efficient S2M and C2C hybrid hierarchical battery equalizer," IEEE Trans. Power Electron., vol. 35, no. 6, pp. 5928-5937, Jun. 2020.  
 
 ### Conference Proceedings  
 - [C3] **Z. Wei**, H. Wang, Y. Lu, N. Guang, and M. Fu, "Bidirectional Constant Current S2C Battery Equalizer Based on Fixed-frequency L2C3 Resonant Converter," in Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC), Houston, TX, USA, Mar. 20-24, 2022. **(Won the PSMA travel grant)**       
-- [C2](https://ieeexplore.ieee.org/document/9595030) Y. Lu, **Z. Wei**, and H. Wang, "A bidirectional cell-to-buffer battery equalizer at boundary conduction mode with constant on-time control," in Proc. IEEE Energy Convers. Congr. Expo. (ECCE), Vancouver, BC, Oct. 2021, pp. 1405-1412.  
-- [C1](https://ieeexplore.ieee.org/abstract/document/9124472) **Z. Wei**, F. Peng, and H. Wang, "A string-to-cell battery equalizer based on fixed-frequency LCC resonant converter," in Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC), New Orleans, LA, Mar. 2020, pp. 1450-1455.**(Won the PSMA travel grant.)**  
+- [[C2](https://ieeexplore.ieee.org/document/9595030)] Y. Lu, **Z. Wei**, and H. Wang, "A bidirectional cell-to-buffer battery equalizer at boundary conduction mode with constant on-time control," in Proc. IEEE Energy Convers. Congr. Expo. (ECCE), Vancouver, BC, Oct. 2021, pp. 1405-1412.  
+- [[C1](https://ieeexplore.ieee.org/abstract/document/9124472)] **Z. Wei**, F. Peng, and H. Wang, "A string-to-cell battery equalizer based on fixed-frequency LCC resonant converter," in Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC), New Orleans, LA, Mar. 2020, pp. 1450-1455.**(Won the PSMA travel grant.)**  
 
 ### Patents
-- [P1](https://pearl.shanghaitech.edu.cn/pdf/2019P6.pdf) 王浩宇, 韦峥祺, "基于LCC谐振变换器的电池均衡电路及方法," 中国, 专利申请号 201911094153.6, 2019年11月11日  
+- [[P1](https://pearl.shanghaitech.edu.cn/pdf/2019P6.pdf)] 王浩宇, 韦峥祺, "基于LCC谐振变换器的电池均衡电路及方法," 中国, 专利申请号 201911094153.6, 2019年11月11日  
+
+## Presentations
+- Applied Power Electronics Conference & Exposition (APEC), New Orleans, US, Mar. 2020  
+- The China Power Supply Society Conference (CPSSC), Shenzhen, China, Nov. 2019  
+- ShanghaiTech University Student Seminar, Shanghai, China, Nov. 2020  
+
 
 ## Professional Services
-### Header 3
+### Membership
+- Student Member, IEEE, 2019. - present
+- Student Member, CPSS, 2020.1 - present
+- IEEE Young Professionals, 2019.7 - present
+- Member, IEEE Power Electronics Society, 2019.7 - present  
 
-
+### Reviewer
+- IEEE Transaction on Power Electronics 
+- IEEE Transaction on Industrial Electronics  
+- IEEE Transactions on Transportation Electrification  
+- IEEE Transactions on Industry Applications  
+- IEEE Applied Power Electronics and Expo (APEC)
 
 
 # Header 1

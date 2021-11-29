@@ -12,13 +12,20 @@ My research interests include battery management system and battery equalization
 ### Education
 M.S. in Electrical Engineering, ShanghaiTech University, Sept. 2019 - Jun. 2022
 上海科技大学，电子科学与技术
+
 B.E. in Electronic Information Science and Technology, Shaanxi Normal University Sept. 2015- Jun. 2019
 陕西师范大学，电子信息科学与技术
+
 ### Awards
+"National sholarship", 2021;
+
+"Outstanding student" of ShanghaiTech University, 2020;
+
+"Outstanding graduate" of Shaanxi Normal University, 2019;
+
+"Excllent sholarship" of Shaanxi Normal University, 2016/2017;
 
 
-
-Syntax highlighted code block
 
 # Header 1
 ## Header 2

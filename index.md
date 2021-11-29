@@ -4,7 +4,8 @@
 
 Email: weizhq1@shanghaitech.edu.cn
 
-![85888](https://user-images.githubusercontent.com/44717390/143880934-034e2a1d-09a4-4c79-9f39-832f531bbe4c.jpg)
+![微信图片_20211129205134](https://user-images.githubusercontent.com/44717390/143881380-f7938479-e44a-4ce6-ac3f-eaa605a0fd39.jpg)
+
 
 ## About me
 I received the B.S. degree in Electronic Information Science and Technology from Shaanxi Normal University (SNNU), Xi’an, China, in 2019. I am currently working toward the M.S. degree in School of Information Science and Technology, ShanghaiTech University, Shanghai, China. 
@@ -71,6 +72,5 @@ Advisor: Prof. Haoyu Wang
 
 
 
-[Link](url) and ![Image](C:\Users\韦峥祺\Desktop\85888.jpg)
-```
+
 

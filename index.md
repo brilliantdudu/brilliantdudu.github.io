@@ -1,12 +1,13 @@
 ## Zhengqi Wei (韦峥祺)
 
-You can use the [editor on GitHub](https://github.com/brilliantdudu/brilliantdudu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=MiilwM0AAAAJ)
+Email: weizhq1@shanghaitech.edu.cn
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About me
+Zhengqi Wei (S’19) received the B.S. degree in Electronic Information Science and Technology from Shaanxi Normal University (SNNU), Xi’an, China, in 2019. He is currently working toward the M.S. degree in School of Information Science and Technology, ShanghaiTech University, Shanghai, China. 
+My research interests include battery management system and battery equalization. My research advisor is Prof. Haoyu Wang. 
 
-23232
 
 ```markdown
 Syntax highlighted code block

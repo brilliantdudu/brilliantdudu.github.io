@@ -4,7 +4,8 @@
 
 Email: weizhq1@shanghaitech.edu.cn
 
-![微信图片_20211129205134](https://user-images.githubusercontent.com/44717390/143881380-f7938479-e44a-4ce6-ac3f-eaa605a0fd39.jpg)
+
+![85888](https://user-images.githubusercontent.com/44717390/143881741-e8785395-f7c4-4b3b-a4a5-047f6457f8a1.jpg)
 
 
 ## About me

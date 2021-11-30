@@ -29,7 +29,7 @@ Advisor: Prof. Haoyu Wang
 - "National scholarship", 2021; 国家奖学金；  
 - "Outstanding student" of ShanghaiTech University, 2020; 上海科技大学三好学生；  
 - "Outstanding graduate" of Shaanxi Normal University, 2019; 陕西师范大学优秀毕业生；    
-- "Excllent sholarship" of Shaanxi Normal University, 2016/2017; 专业一等奖学金；  
+- "Excellent sholarship" of Shaanxi Normal University, 2016/2017; 专业一等奖学金；  
 - "Jing Rui" Scholarship of Shaanxi Normal University, 2019; 精锐奖学金；  
 - "Kai Li New Material" Scholarship of Shaanxi Normal University, 2018; 凯利新材料奖学金；  
 - "Excellent student" of Shaanxi Normal University, 2016; 陕西师范大学优秀学生；  

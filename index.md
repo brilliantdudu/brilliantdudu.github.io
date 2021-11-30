@@ -13,11 +13,11 @@ I received the B.S. degree in Electronic Information Science and Technology from
 My research interests include battery management system and battery equalization. 
 
 ## Education
--M.S. in Electrical Engineering, ShanghaiTech University, Sept. 2019 - Jun. 2022. 
+- M.S. in Electrical Engineering, ShanghaiTech University, Sept. 2019 - Jun. 2022. 
 Advisor: Prof. Haoyu Wang  
 上海科技大学，信息学院，电子科学与技术  
 
--B.E. in Electronic Information Science and Technology, Shaanxi Normal University Sept. 2015- Jun. 2019  
+- B.E. in Electronic Information Science and Technology, Shaanxi Normal University Sept. 2015- Jun. 2019  
 陕西师范大学，物理学院，电子信息科学与技术
 
 ## Research Interests
@@ -59,7 +59,7 @@ Advisor: Prof. Haoyu Wang
 
 ## Professional Services
 ### Membership
-- Student Member, IEEE, 2019. - present
+- Student Member, IEEE, 2019.7 - present
 - Student Member, CPSS, 2020.1 - present
 - IEEE Young Professionals, 2019.7 - present
 - Member, IEEE Power Electronics Society, 2019.7 - present  

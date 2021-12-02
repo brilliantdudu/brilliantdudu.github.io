@@ -69,7 +69,7 @@ Advisor: Prof. Haoyu Wang
 - IEEE Transaction on Industrial Electronics  
 - IEEE Transactions on Transportation Electrification  
 - IEEE Transactions on Industry Applications  
-- IEEE Applied Power Electronics and Expo (APEC)
+- IEEE Applied Power Electronics Conference and Expo (APEC)
 
 
 

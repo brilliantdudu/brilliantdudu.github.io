@@ -72,6 +72,7 @@ Advisor: Prof. Haoyu Wang
 - IEEE Applied Power Electronics Conference and Expo (APEC)
 
 
+![c917ed61568a41ccf29e6989c715b12](https://user-images.githubusercontent.com/44717390/146148884-51722167-a58d-476b-86ed-30edd59c7137.jpg)
 
 
 

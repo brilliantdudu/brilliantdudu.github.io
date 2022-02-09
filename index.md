@@ -1,6 +1,6 @@
 # Zhengqi Wei (韦峥祺)
 
-[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=MiilwM0AAAAJ)
+[[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=MiilwM0AAAAJ)]
 
 Email: weizhq1@shanghaitech.edu.cn
 

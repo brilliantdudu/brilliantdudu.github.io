@@ -13,6 +13,10 @@ I received the B.S. degree in Electronic Information Science and Technology from
 My research interests include battery management system and battery equalization. 
 
 ## Education
+- Ph.D. in Electrical Engineering, City University of Hong Kong, Sept. 2022 - present. 
+Advisor: Prof. Henry Chung  
+香港城市大学，电机工程 
+
 - M.S. in Electrical Engineering, ShanghaiTech University, Sept. 2019 - Jun. 2022. 
 Advisor: Prof. Haoyu Wang  
 上海科技大学，信息学院，电子科学与技术  
@@ -26,6 +30,7 @@ Advisor: Prof. Haoyu Wang
 - Resonant converter
 
 ## Awards
+- "Shanghai Excellent Graduates", 2022；上海市优秀毕业生
 - "National scholarship", 2021; 国家奖学金；  
 - "Outstanding student" of ShanghaiTech University, 2020, 2021; 上海科技大学三好学生；  
 - "Outstanding graduate" of Shaanxi Normal University, 2019; 陕西师范大学优秀毕业生；    
@@ -40,11 +45,12 @@ Advisor: Prof. Haoyu Wang
 
 ## Publications
 ### Journal Papers  
-- [J3] **Z. Wei**, H. Wang, Y. Lu, G. Ning, D. Shu and M. Fu, "Bidirectional Constant Current String-to-Cell Battery Equalizer Based on L2C3 Resonant Topology," IEEE Trans. Power Electron., (under review)
+- [[J3](https://ieeexplore.ieee.org/abstract/document/9882306)] **Z. Wei**, H. Wang, Y. Lu, G. Ning, D. Shu and M. Fu, "Bidirectional Constant Current String-to-Cell Battery Equalizer Based on L2C3 Resonant Topology," IEEE Trans. Power Electron., vol. 38, no. 1, pp. 666-677, Jan. 2023.
 - [[J2](https://ieeexplore.ieee.org/document/9508163)] **Z. Wei**, F. Peng, H. Wang, "An LCC based string-to-cell battery equalizer with simplified constant current control," IEEE Trans. Power Electron., vol. 37, no. 2, pp. 1816-1827, Feb. 2022.  
 - [[J1](https://ieeexplore.ieee.org/document/8873627)] F. Peng, H. Wang, and **Z. Wei**, "An LLC based highly efficient S2M and C2C hybrid hierarchical battery equalizer," IEEE Trans. Power Electron., vol. 35, no. 6, pp. 5928-5937, Jun. 2020.  
 
 ### Conference Proceedings  
+- [C4] Y. Liu, L. Liu, Z. Wei, B. Xu, H. Yang, and H. Wang*, "An integrated charging equalizer based on LLC resonant dc-dc converter-based for series-connected battery string in plug-in hybrid electric vehicles," in Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC), Orlando, FL, Mar. 2023.
 - [C3] **Z. Wei**, H. Wang, Y. Lu, G. Ning, and M. Fu, "Bidirectional Constant Current S2C Battery Equalizer Based on Fixed-frequency L2C3 Resonant Converter," in Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC), Houston, TX, USA, Mar. 20-24, 2022. **(Won the PSMA travel grant)**       
 - [[C2](https://ieeexplore.ieee.org/document/9595030)] Y. Lu, **Z. Wei**, and H. Wang, "A bidirectional cell-to-buffer battery equalizer at boundary conduction mode with constant on-time control," in Proc. IEEE Energy Convers. Congr. Expo. (ECCE), Vancouver, BC, Oct. 2021, pp. 1405-1412.  
 - [[C1](https://ieeexplore.ieee.org/abstract/document/9124472)] **Z. Wei**, F. Peng, and H. Wang, "A string-to-cell battery equalizer based on fixed-frequency LCC resonant converter," in Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC), New Orleans, LA, Mar. 2020, pp. 1450-1455.**(Won the PSMA travel grant.)**  

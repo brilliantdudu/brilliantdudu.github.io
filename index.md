@@ -9,7 +9,9 @@ Email: weizhq1@shanghaitech.edu.cn
 
 
 ## About me
-I received the B.S. degree in Electronic Information Science and Technology from Shaanxi Normal University (SNNU), Xi’an, China, in 2019. I am currently working toward the M.S. degree in School of Information Science and Technology, ShanghaiTech University, Shanghai, China. 
+I received the B.S. degree in Electronic Information Science and Technology from Shaanxi Normal University (SNNU), Xi’an, China, in 2019, and the M.S. degrees from the School of
+Information Science and Technology, ShanghaiTech University, Shanghai, China, in 2022. I am currently working toward the Ph.D. degree in electronic engineering with the City University of Hong Kong, Hong
+Kong. 
 My research interests include battery management system and battery equalization. 
 
 ## Education

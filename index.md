@@ -2,7 +2,7 @@
 
 [[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=MiilwM0AAAAJ)]
 
-Email: weizhq1@shanghaitech.edu.cn
+Email: weizhq03@gmail.com
 
 
 ![85888](https://user-images.githubusercontent.com/44717390/143881741-e8785395-f7c4-4b3b-a4a5-047f6457f8a1.jpg)

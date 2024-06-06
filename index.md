@@ -9,8 +9,7 @@ Email: weizhq03@gmail.com
 
 
 ## About me
-I received the B.S. degree in Electronic Information Science and Technology from Shaanxi Normal University (SNNU), Xi’an, China, in 2019, and the M.S. degrees from the School of
-Information Science and Technology, ShanghaiTech University, Shanghai, China, in 2022. I am currently working toward the Ph.D. degree in electronic engineering with the City University of Hong Kong, Hong
+I received the B.S. degree (with Distinguished Hons.) from School of Physics and Information Technology, Shaanxi Normal University, Xi’an, China, in 2019, and the M.S. degree  (with Distinguished Hons.) from the School of Information Science and Technology, ShanghaiTech University, Shanghai, China, in 2022. I am currently working toward the Ph.D. degree in electical engineering with the City University of Hong Kong, Hong
 Kong. 
 My research interests include battery management system and battery equalization. 
 
@@ -28,14 +27,18 @@ Advisor: Prof. Haoyu Wang
 
 ## Research Interests
 - Battery management system
+- Multi-port converter
 - Energy storage system
 - Resonant converter
 
 ## Awards
-- "Shanghai Excellent Graduates", 2022；上海市优秀毕业生
+- "Gold Medal With Congratulations of the Jury at the 49th International Exhibition of Inventions of Geneva", 2024;
+- "The Outstanding Academic Performance Award" of City University of Hong Kong, 2023;
+- "Distinguished Graduate from Shanghai Municipal Government", 2022；上海市优秀毕业生；
+- Distinguished Graduate from ShanghaiTech University, 2022; 上海科技大学优秀毕业生；
 - "National scholarship", 2021; 国家奖学金；  
 - "Outstanding student" of ShanghaiTech University, 2020, 2021; 上海科技大学三好学生；  
-- "Outstanding graduate" of Shaanxi Normal University, 2019; 陕西师范大学优秀毕业生；    
+- "Distinguished Graduate" of Shaanxi Normal University, 2019; 陕西师范大学优秀毕业生；    
 - "Excellent sholarship" of Shaanxi Normal University, 2016, 2017; 专业一等奖学金；  
 - "Jing Rui" Scholarship of Shaanxi Normal University, 2019; 精锐奖学金；  
 - "Kai Li New Material" Scholarship of Shaanxi Normal University, 2018; 凯利新材料奖学金；  
@@ -58,14 +61,24 @@ Advisor: Prof. Haoyu Wang
 - [[C1](https://ieeexplore.ieee.org/abstract/document/9124472)] **Z. Wei**, F. Peng, and H. Wang, "A string-to-cell battery equalizer based on fixed-frequency LCC resonant converter," in Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC), New Orleans, LA, Mar. 2020, pp. 1450-1455.**(Won the PSMA travel grant.)**  
 
 ### Patents
-- [P2] 韦峥祺, 王浩宇, "双向输出L2C3谐振变换器," 中国, 专利申请号 202210109926.9, 2022年01月29日 
-- [[P1](https://pearl.shanghaitech.edu.cn/pdf/2019P6.pdf)] 王浩宇, 韦峥祺, "基于LCC谐振变换器的电池均衡电路及方法," 中国, 专利申请号 201911094153.6, 2019年11月11日  
+- [P2]  CHUNG, Shu Hung Henry ; WEI, Zhengqi."Apparatus For Battery Voltage Equalization" Filing No. 63/564,649, 13-Mar-2024
+- [P2] 韦峥祺, 王浩宇, "双向输出L2C3谐振变换器," 中国, Patent No. 202210109926.9, 29-Jan-2022
+- [[P1](https://pearl.shanghaitech.edu.cn/pdf/2019P6.pdf)] 王浩宇, 韦峥祺, "基于LCC谐振变换器的电池均衡电路及方法," 中国, Patent No. ZL201911094153.6,, 11-Nov-2019
 
 ## Presentations
+- Applied Power Electronics Conference & Exposition (APEC), Houston, US, Mar. 2022  
 - Applied Power Electronics Conference & Exposition (APEC), New Orleans, US, Mar. 2020  
 - The China Power Supply Society Conference (CPSSC), Shenzhen, China, Nov. 2019  
 - ShanghaiTech University Student Seminar, Shanghai, China, Nov. 2020  
 
+##  Teaching Experiences
+- Teaching Assitant, 2022 Spring SI100B Intro. Infor. Sic. Technol. Shanghaitech University, 109 undergraduates.
+- Teaching Assitant, 2023 Semester A, GE1354 Introduction to Electronic Design, City University of Hong Kong, 124 undergraduates.
+- Teaching Assitant, 2023 Semester B, GE1354 Introduction to Electronic Design, City University of Hong Kong, 69 undergraduates.
+- Teaching Assitant, 2024 Semester A, EE4101 Sustainable Energy Systems, City University of Hong Kong, 45 undergraduates.
+- Undergraduate Final Year Project Guider, 2024 Semester A, Thesis: "Development of Battery Equalization Circuit", Siu Ling Chung.
+- Undergraduate Final Year Project Guider, 2024 Semester A, Thesis: "Battery Testing System with Data Management", Wong Tsz Chun.
+- Undergraduate Final Year Project Guider, 2024 Semester A, Thesis: "Battery Balancing System", Wong Ho Hin.
 
 
 ## Professional Services
@@ -80,7 +93,9 @@ Advisor: Prof. Haoyu Wang
 - IEEE Transaction on Industrial Electronics  
 - IEEE Transactions on Transportation Electrification  
 - IEEE Transactions on Industry Applications  
-- IEEE Applied Power Electronics Conference and Expo (APEC)
+- IEEE Applied Power Electronics Conference and Expo (APEC2020, APEC2022)
+- IEEE Energy Conversion Congress and Exposition (ECCE2024)
+- Annual Conference of the IEEE Industrial Electronics Society (IECON2024) 
 
 
 ![c917ed61568a41ccf29e6989c715b12](https://user-images.githubusercontent.com/44717390/146148884-51722167-a58d-476b-86ed-30edd59c7137.jpg)

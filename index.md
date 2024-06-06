@@ -63,9 +63,9 @@ Advisor: Prof. Haoyu Wang
 - [[C1](https://ieeexplore.ieee.org/abstract/document/9124472)] **Z. Wei**, F. Peng, and H. Wang, "A string-to-cell battery equalizer based on fixed-frequency LCC resonant converter," in Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC), New Orleans, LA, Mar. 2020, pp. 1450-1455.**(Won the PSMA travel grant.)**  
 
 ### Patents
-- [P3]  CHUNG, Shu Hung Henry ; WEI, Zhengqi."Apparatus For Battery Voltage Equalization" Filing No. 63/564,649, 13-Mar-2024
-- [P2] 韦峥祺, 王浩宇, "双向输出L2C3谐振变换器," 中国, Patent No. 202210109926.9, 29-Jan-2022
-- [[P1](https://pearl.shanghaitech.edu.cn/pdf/2019P6.pdf)] 王浩宇, 韦峥祺, "基于LCC谐振变换器的电池均衡电路及方法," 中国, Patent No. ZL201911094153.6,, 11-Nov-2019
+- [P3]  CHUNG, Shu Hung Henry ; WEI, Zhengqi."Apparatus For Battery Voltage Equalization", US, Filing No. 63/564,649, 13-Mar-2024
+- [P2] 韦峥祺, 王浩宇, "双向输出L2C3谐振变换器,", China, Patent No. 202210109926.9, 29-Jan-2022
+- [[P1](https://pearl.shanghaitech.edu.cn/pdf/2019P6.pdf)] 王浩宇, 韦峥祺, "基于LCC谐振变换器的电池均衡电路及方法,", China, Patent No. ZL201911094153.6,, 11-Nov-2019
 
 ## Presentations
 - Applied Power Electronics Conference & Exposition (APEC), Houston, US, Mar. 2022  

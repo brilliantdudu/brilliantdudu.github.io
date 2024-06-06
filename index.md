@@ -1,7 +1,9 @@
 # Zhengqi Wei (韦峥祺)
 
 [[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=MiilwM0AAAAJ)]
-[[LinkedIn](https://www.linkedin.com/in/zhengqi-wei-0a5a62268/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=hk)]
+
+[[LinkedIn](https://hk.linkedin.com/in/zhengqi-wei-0a5a62268?original_referer=https%3A%2F%2Fwww.google.com.hk%2F)]
+
 Email: weizhq03@gmail.com
 
 

@@ -11,7 +11,7 @@ Email: weizhq03@gmail.com
 
 
 ## About me
-I received the B.S. degree (with Distinguished Hons.) from School of Physics and Information Technology, Shaanxi Normal University, Xi’an, China, in 2019, and the M.S. degree  (with Distinguished Hons.) from the School of Information Science and Technology, ShanghaiTech University, Shanghai, China, in 2022. I am currently working toward the Ph.D. degree in electical engineering with the City University of Hong Kong, Hong
+I received the B.S. degree (with Distinguished Hons.) from School of Physics and Information Technology, Shaanxi Normal University, Xi’an, China, in 2019, and the M.S. degree  (with Distinguished Hons.) from the School of Information Science and Technology, ShanghaiTech University, Shanghai, China, in 2022. I am currently working toward the Ph.D. degree in electrical engineering with the City University of Hong Kong, Hong
 Kong, China. 
 My research interests include battery management system and battery equalization. 
 

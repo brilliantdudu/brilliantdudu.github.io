@@ -34,8 +34,8 @@ Advisor: Prof. Haoyu Wang
 - Resonant converter
 
 ## Awards
-- "Gold Medal With Congratulations of the Jury at the 49th International Exhibition of Inventions of Geneva", 2024;
-- "The Outstanding Academic Performance Award" of City University of Hong Kong, 2023;
+- "Gold Medal With Congratulations of the Jury at the 49th International Exhibition of Inventions of Geneva", 2024; 日内瓦国际发明展金奖&评审团特别嘉许
+- "The Outstanding Academic Performance Award" of City University of Hong Kong, 2023; 香港城市大学杰出学术表现奖
 - "Distinguished Graduate from Shanghai Municipal Government", 2022；上海市优秀毕业生；
 - Distinguished Graduate from ShanghaiTech University, 2022; 上海科技大学优秀毕业生；
 - "National scholarship", 2021; 国家奖学金；  

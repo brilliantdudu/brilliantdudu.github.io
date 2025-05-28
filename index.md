@@ -32,10 +32,12 @@ Advisor: Prof. Haoyu Wang
 - Multi-port converter
 - Energy storage system
 - Resonant converter
+- Secondary life battery
 
 ## Awards
-- "Gold Medal With Congratulations of the Jury at the 49th International Exhibition of Inventions of Geneva", 2024; 日内瓦国际发明展金奖&评审团特别嘉许
-- "The Outstanding Academic Performance Award" of City University of Hong Kong, 2023; 香港城市大学杰出学术表现奖
+- "Gold Medal With Congratulations of the Jury at the 49th International Exhibition of Inventions of Geneva", 2024; 日内瓦国际发明展金奖&评审团特别嘉许;
+- "Silver at the 4th Asia Exhibition of Innovations & Inventions Hong Kong", 2024, 亚洲创新发明展银奖;
+- "The Outstanding Academic Performance Award" of City University of Hong Kong, 2023; 香港城市大学杰出学术表现奖;
 - "Distinguished Graduate from Shanghai Municipal Government", 2022；上海市优秀毕业生；
 - Distinguished Graduate from ShanghaiTech University, 2022; 上海科技大学优秀毕业生；
 - "National scholarship", 2021; 国家奖学金；  
@@ -52,11 +54,13 @@ Advisor: Prof. Haoyu Wang
 
 ## Publications
 ### Journal Papers  
+- [[J4](https://ieeexplore.ieee.org/abstract/document/10803961)] **Z. Wei**, H. S. -H. Chung and R. Zhang, "Autonomous Battery Equalization Module Using Capacitively Coupled Input-Parallel Output-Series Structure," in IEEE Transactions on Power Electronics, vol. 40, no. 4, pp. 6162-6176, April 2025.
 - [[J3](https://ieeexplore.ieee.org/abstract/document/9882306)] **Z. Wei**, H. Wang, Y. Lu, G. Ning, D. Shu and M. Fu, "Bidirectional Constant Current String-to-Cell Battery Equalizer Based on L2C3 Resonant Topology," IEEE Trans. Power Electron., vol. 38, no. 1, pp. 666-677, Jan. 2023.
 - [[J2](https://ieeexplore.ieee.org/document/9508163)] **Z. Wei**, F. Peng, H. Wang, "An LCC based string-to-cell battery equalizer with simplified constant current control," IEEE Trans. Power Electron., vol. 37, no. 2, pp. 1816-1827, Feb. 2022.  
 - [[J1](https://ieeexplore.ieee.org/document/8873627)] F. Peng, H. Wang, and **Z. Wei**, "An LLC based highly efficient S2M and C2C hybrid hierarchical battery equalizer," IEEE Trans. Power Electron., vol. 35, no. 6, pp. 5928-5937, Jun. 2020.  
 
 ### Conference Proceedings  	
+- [C5] **Z. Wei**, H. S. -H. Chung and R. Zhang, "Battery Equalization Architecture Using Capacitively-Coupled ZETA-Derived Topology," 2024 IEEE Energy Conversion Congress and Exposition (ECCE), Phoenix, AZ, USA, 2024, pp. 2193-2199.
 - [C4] Y. Lu, **Z. Wei**, L. Liu, H. Wang, Y. Wang and Y. Peng, "An integrated charging equalizer based on LLC resonant dc-dc converter-based for series-connected battery string in plug-in hybrid electric vehicles," in Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC), Orlando, FL, Mar. 2023.
 - [C3] **Z. Wei**, H. Wang, Y. Lu, G. Ning, and M. Fu, "Bidirectional Constant Current S2C Battery Equalizer Based on Fixed-frequency L2C3 Resonant Converter," in Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC), Houston, TX, USA, Mar. 20-24, 2022. **(Won the PSMA travel grant)**       
 - [[C2](https://ieeexplore.ieee.org/document/9595030)] Y. Lu, **Z. Wei**, and H. Wang, "A bidirectional cell-to-buffer battery equalizer at boundary conduction mode with constant on-time control," in Proc. IEEE Energy Convers. Congr. Expo. (ECCE), Vancouver, BC, Oct. 2021, pp. 1405-1412.  
@@ -73,14 +77,24 @@ Advisor: Prof. Haoyu Wang
 - The China Power Supply Society Conference (CPSSC), Shenzhen, China, Nov. 2019  
 - ShanghaiTech University Student Seminar, Shanghai, China, Nov. 2020  
 
-##  Teaching Experiences
-- Teaching Assitant, 2022 Spring SI100B Intro. Infor. Sic. Technol. Shanghaitech University, 109 undergraduates.
-- Teaching Assitant, 2023 Semester A, GE1354 Introduction to Electronic Design, City University of Hong Kong, 124 undergraduates.
-- Teaching Assitant, 2023 Semester B, GE1354 Introduction to Electronic Design, City University of Hong Kong, 69 undergraduates.
-- Teaching Assitant, 2024 Semester A, EE4101 Sustainable Energy Systems, City University of Hong Kong, 45 undergraduates.
+##  Students Guidance 
+- Undergraduate Final Year Project Guider, 2025 Semester B, Thesis: "Rebuild Battery Management System Using Half-Bridge Topology", Ma Man Hei
+- Undergraduate Final Year Project Guider, 2025 Semester B, Thesis: "Battery Management System Using Half-Bridege Topology", YIP Yu Hin
 - Undergraduate Final Year Project Guider, 2024 Semester A, Thesis: "Development of Battery Equalization Circuit", Siu Ling Chung.
 - Undergraduate Final Year Project Guider, 2024 Semester A, Thesis: "Battery Testing System with Data Management", Wong Tsz Chun.
 - Undergraduate Final Year Project Guider, 2024 Semester A, Thesis: "Battery Balancing System", Wong Ho Hin.
+
+##  Teaching Experiences
+- Teaching Assitant, 2025 Semester A, EE3070 Design Project, City University of Hong Kong, 64 undergraduates.
+- Teaching Assitant, 2024 Semester B, EE5437 Internet of Things Technologies for Future City Applications, City University of Hong Kong, 164 graduates.
+- Teaching Assitant, 2024 Semester A, EE4101 Sustainable Energy Systems, City University of Hong Kong, 45 undergraduates.
+- Teaching Assitant, 2023 Semester B, GE1354 Introduction to Electronic Design, City University of Hong Kong, 69 undergraduates.
+- Teaching Assitant, 2023 Semester A, GE1354 Introduction to Electronic Design, City University of Hong Kong, 124 undergraduates.
+- Teaching Assitant, 2022 Spring SI100B Intro. Infor. Sic. Technol. Shanghaitech University, 109 undergraduates.
+
+
+
+
 
 
 ## Professional Services
@@ -93,7 +107,8 @@ Advisor: Prof. Haoyu Wang
 ### Reviewer
 - IEEE Transaction on Power Electronics 
 - IEEE Transaction on Industrial Electronics  
-- IEEE Transactions on Transportation Electrification  
+- IEEE Transactions on Transportation Electrification
+- IEEE Journal of Emerging and Selected Topics in Power Electronics
 - IEEE Transactions on Industry Applications  
 - IEEE Applied Power Electronics Conference and Expo (APEC2020, APEC2022)
 - IEEE Energy Conversion Congress and Exposition (ECCE2024)

@@ -1,4 +1,4 @@
-# Zhengqi Wei (韦峥祺)
+<img width="1470" height="62" alt="image" src="https://github.com/user-attachments/assets/d81a8b9c-03b9-47d2-8136-59a77cd961f5" /># Zhengqi Wei (韦峥祺)
 
 [[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=MiilwM0AAAAJ)]
 
@@ -35,9 +35,13 @@ Advisor: Prof. Haoyu Wang
 - Secondary life battery
 
 ## Awards
+- "Best Sustainable Invention of the Year at the Worldinvent Singapore", 2025; 新加坡世界发明展年度最佳可持续发明奖;
+- "Gold Medal at the Worldinvent Singapore", 2025; 新加坡世界发明展金奖;
+- "Talent Development Scholarship of Hong Kong SAR", 2025; 香港特别行政区才艺发展奖学金；
+-  Second Prize of The 11th Hong Kong University Student Innovation and Entrepreneurship Competition" 2025; 香港大学生创新创业大赛二等奖;
 - "Gold Medal With Congratulations of the Jury at the 49th International Exhibition of Inventions of Geneva", 2024; 日内瓦国际发明展金奖&评审团特别嘉许;
 - "Silver at the 4th Asia Exhibition of Innovations & Inventions Hong Kong", 2024, 亚洲创新发明展银奖;
-- "The Outstanding Academic Performance Award" of City University of Hong Kong, 2023; 香港城市大学杰出学术表现奖;
+- "The Outstanding Academic Performance Award" of City University of Hong Kong, 2023, 2025; 香港城市大学杰出学术表现奖;
 - "Distinguished Graduate from Shanghai Municipal Government", 2022；上海市优秀毕业生；
 - Distinguished Graduate from ShanghaiTech University, 2022; 上海科技大学优秀毕业生；
 - "National scholarship", 2021; 国家奖学金；  
@@ -67,11 +71,15 @@ Advisor: Prof. Haoyu Wang
 - [[C1](https://ieeexplore.ieee.org/abstract/document/9124472)] **Z. Wei**, F. Peng, and H. Wang, "A string-to-cell battery equalizer based on fixed-frequency LCC resonant converter," in Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC), New Orleans, LA, Mar. 2020, pp. 1450-1455.**(Won the PSMA travel grant.)**  
 
 ### Patents
+- [P5]  CHUNG, Shu Hung Henry ; WEI, Zhengqi."Equalization Modules and System for Batttery Devices", US, Filing No. 63/871,766, 23-Sep-2025
+- [P4]  钟树鸿 ; 韦峥祺."电池均衡器及电池均衡方法", China, Filing No.202510275949.0, 10-Mar-2025
 - [P3]  CHUNG, Shu Hung Henry ; WEI, Zhengqi."Apparatus For Battery Voltage Equalization", US, Filing No. 63/564,649, 13-Mar-2024
 - [P2] 韦峥祺, 王浩宇, "双向输出L2C3谐振变换器,", China, Patent No. 202210109926.9, 29-Jan-2022
 - [[P1](https://pearl.shanghaitech.edu.cn/pdf/2019P6.pdf)] 王浩宇, 韦峥祺, "基于LCC谐振变换器的电池均衡电路及方法,", China, Patent No. ZL201911094153.6,, 11-Nov-2019
 
 ## Presentations
+- HKICE Young Scientist Seminar Series 2025, Hong Kong, CN, Sept. 2025
+- The 2024 Shenzhen-Hong Kong International Intellectual Property Transformation Summit Forum, ShenZhen, CN, Dec. 2024
 - Applied Power Electronics Conference & Exposition (APEC), Houston, US, Mar. 2022  
 - Applied Power Electronics Conference & Exposition (APEC), New Orleans, US, Mar. 2020  
 - The China Power Supply Society Conference (CPSSC), Shenzhen, China, Nov. 2019  
@@ -85,6 +93,7 @@ Advisor: Prof. Haoyu Wang
 - Undergraduate Final Year Project Guider, 2024 Semester A, Thesis: "Battery Balancing System", Wong Ho Hin.
 
 ##  Teaching Experiences
+- Teaching Assitant, 2025 Semester B, EE3070 Design Project, City University of Hong Kong, 116 undergraduates.
 - Teaching Assitant, 2025 Semester A, EE3070 Design Project, City University of Hong Kong, 64 undergraduates.
 - Teaching Assitant, 2024 Semester B, EE5437 Internet of Things Technologies for Future City Applications, City University of Hong Kong, 164 graduates.
 - Teaching Assitant, 2024 Semester A, EE4101 Sustainable Energy Systems, City University of Hong Kong, 45 undergraduates.
@@ -109,8 +118,9 @@ Advisor: Prof. Haoyu Wang
 - IEEE Transaction on Industrial Electronics  
 - IEEE Transactions on Transportation Electrification
 - IEEE Journal of Emerging and Selected Topics in Power Electronics
-- IEEE Transactions on Industry Applications  
-- IEEE Applied Power Electronics Conference and Expo (APEC2020, APEC2022)
+- IEEE Transactions on Industry Applications
+- Journal of Energy Storage
+- IEEE Applied Power Electronics Conference and Expo (APEC2020, APEC2022, APEC2026)
 - IEEE Energy Conversion Congress and Exposition (ECCE2024)
 - Annual Conference of the IEEE Industrial Electronics Society (IECON2024) 
 

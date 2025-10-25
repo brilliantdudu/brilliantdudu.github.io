@@ -1,4 +1,4 @@
-<img width="1470" height="62" alt="image" src="https://github.com/user-attachments/assets/d81a8b9c-03b9-47d2-8136-59a77cd961f5" /># Zhengqi Wei (韦峥祺)
+# Zhengqi Wei (韦峥祺)
 
 [[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=MiilwM0AAAAJ)]
 

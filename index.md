@@ -8,7 +8,7 @@ Email: weizhq03@gmail.com
 
 
 ![85888](https://user-images.githubusercontent.com/44717390/143881741-e8785395-f7c4-4b3b-a4a5-047f6457f8a1.jpg)
-![85888](https://github.com/brilliantdudu/brilliantdudu.github.io/blob/main/github%E5%9B%BE.png)
+!(https://github.com/brilliantdudu/brilliantdudu.github.io/blob/main/github%E5%9B%BE.png)
 
 ## About me
 I received the B.S. degree (with Distinguished Hons.) from School of Physics and Information Technology, Shaanxi Normal University, Xi’an, China, in 2019, and the M.S. degree  (with Distinguished Hons.) from the School of Information Science and Technology, ShanghaiTech University, Shanghai, China, in 2022. I am currently working toward the Ph.D. degree in electrical engineering with the City University of Hong Kong, Hong

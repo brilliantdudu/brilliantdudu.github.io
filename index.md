@@ -58,6 +58,7 @@ Advisor: Prof. Haoyu Wang
 
 ## Publications
 ### Journal Papers  
+- [[J5](https://ieeexplore.ieee.org/document/11270208)] **Z. Wei**, H. S. -H. Chung, F. Lu and S. Wang, "Modular Equalization Architecture Using a ZVS Half-bridge for Autonomous Energy Redistribution,".
 - [[J4](https://ieeexplore.ieee.org/abstract/document/10803961)] **Z. Wei**, H. S. -H. Chung and R. Zhang, "Autonomous Battery Equalization Module Using Capacitively Coupled Input-Parallel Output-Series Structure," in IEEE Transactions on Power Electronics, vol. 40, no. 4, pp. 6162-6176, April 2025.
 - [[J3](https://ieeexplore.ieee.org/abstract/document/9882306)] **Z. Wei**, H. Wang, Y. Lu, G. Ning, D. Shu and M. Fu, "Bidirectional Constant Current String-to-Cell Battery Equalizer Based on L2C3 Resonant Topology," IEEE Trans. Power Electron., vol. 38, no. 1, pp. 666-677, Jan. 2023.
 - [[J2](https://ieeexplore.ieee.org/document/9508163)] **Z. Wei**, F. Peng, H. Wang, "An LCC based string-to-cell battery equalizer with simplified constant current control," IEEE Trans. Power Electron., vol. 37, no. 2, pp. 1816-1827, Feb. 2022.  

@@ -17,11 +17,11 @@ My research interests include battery management system and battery equalization
 
 ## Education
 - Ph.D. in Electrical Engineering, City University of Hong Kong, Sept. 2022 - present. 
-Advisor: Prof. Henry Chung  
+Advisor: Prof. [Henry Chung(https://scholar.google.com.hk/citations?hl=zh-CN&user=bwQsTmAAAAAJ)]  
 香港城市大学，电机工程 
 
 - M.S. in Electrical Engineering, ShanghaiTech University, Sept. 2019 - Jun. 2022. 
-Advisor: Prof. Haoyu Wang  
+Advisor: Prof. [Haoyu Wang(https://pearl.shanghaitech.edu.cn/people.html)]
 上海科技大学，信息学院，电子科学与技术  
 
 - B.E. in Electronic Information Science and Technology, Shaanxi Normal University Sept. 2015- Jun. 2019  

@@ -7,7 +7,7 @@
 Email: weizhq03@gmail.com
 
 
-![85888](https://user-images.githubusercontent.com/44717390/143881741-e8785395-f7c4-4b3b-a4a5-047f6457f8a1.jpg)
+
 ![github2](github2.png)
 
 ## About me

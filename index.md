@@ -34,6 +34,31 @@ My research interests include battery management system and battery equalization
 - Resonant converter
 - Secondary life battery
 
+
+
+## Publications
+### Journal Papers  
+- [[J6]([https://ieeexplore.ieee.org/document/11270208](https://github.com/brilliantdudu/brilliantdudu.github.io/blob/main/Autonomous_Energy_Routing_and_Redistribution_Architecture_for_Large-Scale_Battery_Storage_Systems_With_Battery_Diagnostics.pdf))] **Z. Wei**, H. S. -H. Chung, C. -S. Cheng and C. -F. Liu, "Autonomous Energy Routing and Redistribution Architecture for Large-Scale Battery Storage Systems With Battery Diagnostics," in IEEE Transactions on Power Electronics.
+- [[J5]([https://ieeexplore.ieee.org/document/11270208](https://github.com/brilliantdudu/brilliantdudu.github.io/blob/main/Modular_Equalization_Architecture_Using_a_ZVS_Half-Bridge_for_Autonomous_Energy_Redistribution.pdf))] **Z. Wei**, H. S. -H. Chung, F. Lu and S. Wang, "Modular Equalization Architecture Using a ZVS Half-bridge for Autonomous Energy Redistribution," in IEEE Transactions on Power Electronics.
+- [[J4]([https://ieeexplore.ieee.org/abstract/document/10803961](https://github.com/brilliantdudu/brilliantdudu.github.io/blob/main/Autonomous_Energy_Routing_and_Redistribution_Architecture_for_Large-Scale_Battery_Storage_Systems_With_Battery_Diagnostics.pdf))] **Z. Wei**, H. S. -H. Chung and R. Zhang, "Autonomous Battery Equalization Module Using Capacitively Coupled Input-Parallel Output-Series Structure," in IEEE Transactions on Power Electronics, vol. 40, no. 4, pp. 6162-6176, April 2025.
+- [[J3](https://ieeexplore.ieee.org/abstract/document/9882306)] **Z. Wei**, H. Wang, Y. Lu, G. Ning, D. Shu and M. Fu, "Bidirectional Constant Current String-to-Cell Battery Equalizer Based on L2C3 Resonant Topology," IEEE Trans. Power Electron., vol. 38, no. 1, pp. 666-677, Jan. 2023.
+- [[J2](https://ieeexplore.ieee.org/document/9508163)] **Z. Wei**, F. Peng, H. Wang, "An LCC based string-to-cell battery equalizer with simplified constant current control," IEEE Trans. Power Electron., vol. 37, no. 2, pp. 1816-1827, Feb. 2022.  
+- [[J1](https://ieeexplore.ieee.org/document/8873627)] F. Peng, H. Wang, and **Z. Wei**, "An LLC based highly efficient S2M and C2C hybrid hierarchical battery equalizer," IEEE Trans. Power Electron., vol. 35, no. 6, pp. 5928-5937, Jun. 2020.  
+
+### Conference Proceedings  	
+- [C5] **Z. Wei**, H. S. -H. Chung and R. Zhang, "Battery Equalization Architecture Using Capacitively-Coupled ZETA-Derived Topology," 2024 IEEE Energy Conversion Congress and Exposition (ECCE), Phoenix, AZ, USA, 2024, pp. 2193-2199.
+- [C4] Y. Lu, **Z. Wei**, L. Liu, H. Wang, Y. Wang and Y. Peng, "An integrated charging equalizer based on LLC resonant dc-dc converter-based for series-connected battery string in plug-in hybrid electric vehicles," in Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC), Orlando, FL, Mar. 2023.
+- [C3] **Z. Wei**, H. Wang, Y. Lu, G. Ning, and M. Fu, "Bidirectional Constant Current S2C Battery Equalizer Based on Fixed-frequency L2C3 Resonant Converter," in Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC), Houston, TX, USA, Mar. 20-24, 2022. **(Won the PSMA travel grant)**       
+- [[C2](https://ieeexplore.ieee.org/document/9595030)] Y. Lu, **Z. Wei**, and H. Wang, "A bidirectional cell-to-buffer battery equalizer at boundary conduction mode with constant on-time control," in Proc. IEEE Energy Convers. Congr. Expo. (ECCE), Vancouver, BC, Oct. 2021, pp. 1405-1412.  
+- [[C1](https://ieeexplore.ieee.org/abstract/document/9124472)] **Z. Wei**, F. Peng, and H. Wang, "A string-to-cell battery equalizer based on fixed-frequency LCC resonant converter," in Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC), New Orleans, LA, Mar. 2020, pp. 1450-1455.**(Won the PSMA travel grant.)**  
+
+### Patents
+- [P5]  CHUNG, Shu Hung Henry ; WEI, Zhengqi."Equalization Modules and System for Batttery Devices", US, Filing No. 63/871,766, 23-Sep-2025
+- [P4]  钟树鸿 ; 韦峥祺."电池均衡器及电池均衡方法", China, Filing No.202510275949.0, 10-Mar-2025
+- [P3]  CHUNG, Shu Hung Henry ; WEI, Zhengqi."Apparatus For Battery Voltage Equalization", US, Filing No. 63/564,649, 13-Mar-2024
+- [P2] 韦峥祺, 王浩宇, "双向输出L2C3谐振变换器,", China, Patent No. 202210109926.9, 29-Jan-2022
+- [[P1](https://pearl.shanghaitech.edu.cn/pdf/2019P6.pdf)] 王浩宇, 韦峥祺, "基于LCC谐振变换器的电池均衡电路及方法,", China, Patent No. ZL201911094153.6,, 11-Nov-2019
+
 ## Awards
 - "Best Sustainable Invention of the Year at the Worldinvent Singapore", 2025; 新加坡世界发明展年度最佳可持续发明奖;
 - "Gold Medal at the Worldinvent Singapore", 2025; 新加坡世界发明展金奖;
@@ -56,27 +81,7 @@ My research interests include battery management system and battery equalization
 - Bronze prize, Province-level, China Students' Entrepreneurship Competition, 2018;  陕西省大学生创业大赛铜奖；  
 - Bronze prize, Province-level, National undergraduate Electronic Design Contest, 2018；  全国大学生电子设计竞赛陕西省铜奖；
 
-## Publications
-### Journal Papers  
-- [[J5](https://ieeexplore.ieee.org/document/11270208)] **Z. Wei**, H. S. -H. Chung, F. Lu and S. Wang, "Modular Equalization Architecture Using a ZVS Half-bridge for Autonomous Energy Redistribution,".
-- [[J4](https://ieeexplore.ieee.org/abstract/document/10803961)] **Z. Wei**, H. S. -H. Chung and R. Zhang, "Autonomous Battery Equalization Module Using Capacitively Coupled Input-Parallel Output-Series Structure," in IEEE Transactions on Power Electronics, vol. 40, no. 4, pp. 6162-6176, April 2025.
-- [[J3](https://ieeexplore.ieee.org/abstract/document/9882306)] **Z. Wei**, H. Wang, Y. Lu, G. Ning, D. Shu and M. Fu, "Bidirectional Constant Current String-to-Cell Battery Equalizer Based on L2C3 Resonant Topology," IEEE Trans. Power Electron., vol. 38, no. 1, pp. 666-677, Jan. 2023.
-- [[J2](https://ieeexplore.ieee.org/document/9508163)] **Z. Wei**, F. Peng, H. Wang, "An LCC based string-to-cell battery equalizer with simplified constant current control," IEEE Trans. Power Electron., vol. 37, no. 2, pp. 1816-1827, Feb. 2022.  
-- [[J1](https://ieeexplore.ieee.org/document/8873627)] F. Peng, H. Wang, and **Z. Wei**, "An LLC based highly efficient S2M and C2C hybrid hierarchical battery equalizer," IEEE Trans. Power Electron., vol. 35, no. 6, pp. 5928-5937, Jun. 2020.  
 
-### Conference Proceedings  	
-- [C5] **Z. Wei**, H. S. -H. Chung and R. Zhang, "Battery Equalization Architecture Using Capacitively-Coupled ZETA-Derived Topology," 2024 IEEE Energy Conversion Congress and Exposition (ECCE), Phoenix, AZ, USA, 2024, pp. 2193-2199.
-- [C4] Y. Lu, **Z. Wei**, L. Liu, H. Wang, Y. Wang and Y. Peng, "An integrated charging equalizer based on LLC resonant dc-dc converter-based for series-connected battery string in plug-in hybrid electric vehicles," in Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC), Orlando, FL, Mar. 2023.
-- [C3] **Z. Wei**, H. Wang, Y. Lu, G. Ning, and M. Fu, "Bidirectional Constant Current S2C Battery Equalizer Based on Fixed-frequency L2C3 Resonant Converter," in Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC), Houston, TX, USA, Mar. 20-24, 2022. **(Won the PSMA travel grant)**       
-- [[C2](https://ieeexplore.ieee.org/document/9595030)] Y. Lu, **Z. Wei**, and H. Wang, "A bidirectional cell-to-buffer battery equalizer at boundary conduction mode with constant on-time control," in Proc. IEEE Energy Convers. Congr. Expo. (ECCE), Vancouver, BC, Oct. 2021, pp. 1405-1412.  
-- [[C1](https://ieeexplore.ieee.org/abstract/document/9124472)] **Z. Wei**, F. Peng, and H. Wang, "A string-to-cell battery equalizer based on fixed-frequency LCC resonant converter," in Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC), New Orleans, LA, Mar. 2020, pp. 1450-1455.**(Won the PSMA travel grant.)**  
-
-### Patents
-- [P5]  CHUNG, Shu Hung Henry ; WEI, Zhengqi."Equalization Modules and System for Batttery Devices", US, Filing No. 63/871,766, 23-Sep-2025
-- [P4]  钟树鸿 ; 韦峥祺."电池均衡器及电池均衡方法", China, Filing No.202510275949.0, 10-Mar-2025
-- [P3]  CHUNG, Shu Hung Henry ; WEI, Zhengqi."Apparatus For Battery Voltage Equalization", US, Filing No. 63/564,649, 13-Mar-2024
-- [P2] 韦峥祺, 王浩宇, "双向输出L2C3谐振变换器,", China, Patent No. 202210109926.9, 29-Jan-2022
-- [[P1](https://pearl.shanghaitech.edu.cn/pdf/2019P6.pdf)] 王浩宇, 韦峥祺, "基于LCC谐振变换器的电池均衡电路及方法,", China, Patent No. ZL201911094153.6,, 11-Nov-2019
 
 ## Presentations
 - HKICE Young Scientist Seminar Series 2025, Hong Kong, CN, Sept. 2025
